@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+uploads/
+extracted/
+files_db.json
+.env
+.railway/
+venv/
+env/
+*.db
+.DS_Store
